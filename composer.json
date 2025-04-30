@@ -7,7 +7,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Oliver Ernst",
+            "name": "Applifaction LLC",
+            "role": "Manufacturer",
+            "homepage": "https://applifaction.com",
             "email": "hey@applifaction.com"
         }
     ],

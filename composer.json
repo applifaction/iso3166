@@ -1,13 +1,16 @@
 {
-    "name": "league/iso3166",
+    "name": "applifaction/iso3166",
+    "version": "4.3.2",
     "description": "ISO 3166-1 PHP Library",
     "keywords": ["ISO 3166", "ISO", "3166", "3166-1", "countries", "library"],
     "homepage": "https://github.com/alcohol/iso3166",
     "license": "MIT",
-    "authors": [{
-        "name": "Rob Bast",
-        "email": "rob.bast@gmail.com"
-    }],
+    "authors": [
+        {
+            "name": "Oliver Ernst",
+            "email": "hey@applifaction.com"
+        }
+    ],
     "support": {
         "issues": "https://github.com/alcohol/iso3166/issues",
         "source": "https://github.com/alcohol/iso3166"
